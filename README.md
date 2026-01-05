@@ -51,7 +51,8 @@ python3 client.py --node http://<IP>:8000 status
 
 ## Author
 
-[Your Name]
+Nurlan Mussepov
+IT-2306
 
 ## Date
 
